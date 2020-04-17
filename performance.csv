@@ -1,2 +1,0 @@
-location_id,sku_id,forecasting_method,wmape,selected_method,input_method
-DC1,38340M844A0,Sarima,46.62,Sarima,BestFit
